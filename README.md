@@ -2,6 +2,10 @@
 
 This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 ![bootstrap-extension](https://user-images.githubusercontent.com/49204963/74087227-968d3400-4a8a-11ea-84e0-db948d05cc57.gif)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 73c26fb5ad1018ba9b493ef41bbcd50559189d47
 ## How to use
 
 ### Installation:
