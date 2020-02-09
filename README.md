@@ -1,8 +1,8 @@
 # Bootstrap Version 4 README
 
 This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
-![bootstrap-extension](https://user-images.githubusercontent.com/49204963/74087227-968d3400-4a8a-11ea-84e0-db948d05cc57.gif)
 
+  
 ## How to use
 
 ### Installation:
