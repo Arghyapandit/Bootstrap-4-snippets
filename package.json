@@ -6,9 +6,9 @@
 	"publisher": "tanming363",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tanming363/Bootstrap-v4-fontawesome-v5--snippets-Extensionyear-2020.git"
-	}, 
-	"icon": ".images/icon.jpg",
+		"url": "https://github.com/tanming363/Bootstrap-4-snippets"
+	},
+	"icon": "images/icon.jpg",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
