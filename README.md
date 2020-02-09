@@ -4,8 +4,6 @@ This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 
 ![bootstrap-extension](images/screenshots/bootstrap-extension.gif)
 
-<!-- ![bootstrap-extension](images/shot.png) -->
-
 ## How to use
 
 ### Installation:
