@@ -1,35 +1,39 @@
 {
-    "name": "bootstrap-v4",
-    "displayName": "Bootstrap 4 snippets",
-    "description": "Bootstrap version 4 snippets by Tanmay N Ingole",
-    "version": "1.0.0",
-    "publisher": "tanming363",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/tanming363/Bootstrap-v4-fontawesome-v5--snippets-Extensionyear-2020.git"
-    },
-    "icon": "icon.jpg",
-    
-    "engines": {
-        "vscode": "^1.42.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "AngularJs",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "Angular 2+",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    }
+	"name": "bootstrap-v4",
+	"displayName": "Bootstrap 4 snippets",
+	"description": "Bootstrap version 4 snippets by Tanmay N Ingole",
+	"version": "1.0.0",
+	"publisher": "tanming363",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tanming363/Bootstrap-v4-fontawesome-v5--snippets-Extensionyear-2020.git"
+	},
+	"icon": "icon.jpg",
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "AngularJs",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "Angular 2+",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "b0188967-d026-4fb6-b56a-65fb9bf9986a",
+		"publisherDisplayName": "Tanmay Ingole",
+		"publisherId": "a114eb45-39c7-4259-ad4b-f10254296065"
+	}
 }
