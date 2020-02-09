@@ -13,7 +13,8 @@ This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 ### Bootstrap 4:
 
 - To use the bootstrap 4 snippets in AngularJs, Angular 2+,any Js framework or in normal HTML file, just type `b4` followed by pressing `Ctrl+Space`. List will be appears. Check the belows shortcuts.
-  ![shot](images/shot.png)
+
+![shot](images/shot.png)
 
 ### Bootstrap 4 shortcuts:
 
