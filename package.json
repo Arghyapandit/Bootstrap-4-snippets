@@ -3,12 +3,13 @@
     "displayName": "Bootstrap 4 snippets",
     "description": "Bootstrap version 4 snippets by Tanmay N Ingole",
     "version": "1.0.0",
-    "publisher": "Tanmay N Ingole",
+    "publisher": "tanming363",
     "repository": {
         "type": "git",
         "url": "https://github.com/tanming363/Bootstrap-v4-fontawesome-v5--snippets-Extensionyear-2020.git"
     },
-    "icon": "Icon.jpg",
+    "icon": "icon.jpg",
+    
     "engines": {
         "vscode": "^1.42.0"
     },
