@@ -33,7 +33,6 @@ This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 | `Tabs`                          | b4-tab            |
 | `Navbar`                        | b4-navbar-primary |
 | `Pagination`                    | b4-pagination     |
-| `Navbar`                        | b4-navbar-primary |
 | `Progress Bar`                  | b4-progress-bar   |
 | `Spinner`                       | b4-spinner-border |
 |                                 |                   |
