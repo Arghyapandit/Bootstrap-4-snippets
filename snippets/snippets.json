@@ -549,9 +549,7 @@
         "Bootstrap v4 Modal": {
                 "prefix": "b4-modal",
                 "body": [
-                        "\"\": {",
-                        "  \"prefix\": \"\",",
-                        " <!-- Button trigger modal -->",
+                        "<!-- Button trigger modal -->",
                         "<button type=\"button\" class=\"btn btn-primary\" data-toggle=\"modal\" data-target=\"#exampleModal\">",
                         "  Launch demo modal",
                         "</button>",
@@ -575,8 +573,7 @@
                         "      </div>",
                         "    </div>",
                         "  </div>",
-                        "</div>",
-                        "}"
+                        "</div>"
                 ],
                 "description": "Bootstrap v4 Modal"
         },
