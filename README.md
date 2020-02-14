@@ -41,3 +41,4 @@ This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 ### 1.0.0
 
 **Enjoy!**
+<!-- <span class="badge badge-pill badge-${1:primary|secondary|success|danger|warning|info|light|dark}">$2</span> -->
