@@ -17,28 +17,30 @@ This is Bootstrap 4 latest version(4.4.x) `yrs 2020`.
 
 ### Bootstrap 4 shortcuts:
 
-| For ...                         | Type ...          |
-| ------------------------------- | ----------------- |
-| `Starter Template`              | bs                |
-| `Alert (For all colors)`        | b4-alert          |
-| `Badges (For all colors)`       | b4-badge          |
-| `Breadcrumb (For all Type)`     | b4-breadcrumb     |
-| `Button (For all Colors/Types)` | b4-btn            |
-| `Card`                          | b4-card           |
-| `Carousel`                      | b4-Carousel       |
-| `Collapse`                      | b4-collapse       |
-| `Dropdown`                      | b4-dropdown       |
-| `Form`                          | b4-form           |
-| `Modal`                         | b4-modal          |
-| `Tabs`                          | b4-tab            |
-| `Navbar`                        | b4-navbar-primary |
-| `Pagination`                    | b4-pagination     |
-| `Progress Bar`                  | b4-progress-bar   |
-| `Spinner`                       | b4-spinner-border |
+| For ...                                  | Type ...          |
+| ---------------------------------------- | ----------------- |
+| `Starter Template`                       | bs                |
+| `Alert (For all colors)`                 | b4-alert          |
+| `Badges (For all colors)`                | b4-badge          |
+| `Breadcrumb (For all Type)`              | b4-breadcrumb     |
+| `Button (For all Colors/Types)`          | b4-btn            |
+| `Card`                                   | b4-card           |
+| `Carousel`                               | b4-Carousel       |
+| `Collapse`                               | b4-collapse       |
+| `Dropdown`                               | b4-dropdown       |
+| `Form`                                   | b4-form           |
+| `Modal`                                  | b4-modal          |
+| `Tabs`                                   | b4-tab            |
+| `Navbar`                                 | b4-navbar-primary |
+| `Pagination`                             | b4-pagination     |
+| `Progress Bar`                           | b4-progress-bar   |
+| `Spinner`                                | b4-spinner-border |
+| `Table(normal,dark,bordered,borderless)` | b4-table          |
 
 ## Release Notes
 
 ### 1.0.0
 
 **Enjoy!**
+
 <!-- <span class="badge badge-pill badge-${1:primary|secondary|success|danger|warning|info|light|dark}">$2</span> -->
