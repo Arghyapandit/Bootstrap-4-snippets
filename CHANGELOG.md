@@ -4,6 +4,6 @@
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
-## [1.0.0]
+## [2.0.0]
 
-- Initial release of Bootstrap 4 snippets extension
+- Initial release of Bootstrap 5 snippets extension

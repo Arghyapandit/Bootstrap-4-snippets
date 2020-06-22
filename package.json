@@ -1,14 +1,14 @@
 {
-	"name": "bootstrap-v4",
-	"displayName": "Bootstrap 4 snippets YEAR 2020",
-	"description": "Bootstrap version 4 snippets by Tanmay N Ingole",
-	"version": "1.0.0",
+	"name": "bootstrap-v4-and-v5",
+	"displayName": "Bootstrap v4 and v5 snippets YEAR 2020",
+	"description": "Bootstrap v4 and v5 snippets by Tanmay N Ingole",
+	"version": "2.0.0",
 	"publisher": "tanming363",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tanming363/Bootstrap-4-snippets"
 	},
-	"icon": "images/icon.jpg",
+	"icon": "images/bootstrap5.png",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
