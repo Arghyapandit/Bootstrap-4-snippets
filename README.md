@@ -52,10 +52,12 @@ This is Bootstrap v4 and latest v5 `yrs 2020`.
 | `Form Horizontal`                 | b5-form-horizontal          |
 | `Form Inline`                     | b5-form-inline              |
 | `Form Validation`                 | b5-form-validation          |
+| `Navbar`                          | b5-navbar-primary           |
+| `Badge`                           | b5-badge-primary            |
 
 ## Release Notes
 
-`Please cheack the below for better understanding.`
+`Please cheack the link for better understanding.`
 [Bootstrap 5](https://v5.getbootstrap.com/docs/5.0/migration/)
 
 ### 2.0.0
